@@ -1,1 +1,5 @@
 name: Team awesome's approval workflow
+on: 
+  push:
+jobs:
+  test:
